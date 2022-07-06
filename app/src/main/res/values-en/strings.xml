@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VegetableOrganic</string>
+    <string name="th_m_v_o_gi_h_ng">Add Cart</string>
+    <string name="ng_k">Register</string>
+    <string name="email">Email</string>
+    <string name="h_v_t_n">Full Name</string>
+    <string name="password">Password</string>
+    <string name="password1">Password</string>
+    <string name="ng_k1">Register</string>
+    <string name="ng_nh_p">Log In</string>
+    <string name="email1">Email</string>
+    <string name="password2">Password</string>
+    <string name="ng_k2">Register</string>
+    <string name="ch_a_ng_k">"No Account Registered ? "</string>
+    <string name="ng_nh_p1">Log In</string>
+    <string name="a1">Product Details</string>
+    <string name="m_t_chi_ti_t_s_n_ph_m">Detailed Product Description</string>
+    <string name="x_c_th_c_otp">OTP authentication</string>
+    <string name="x_c_th_c1">Verification</string>
+    <string name="a2">Tumer</string>
+    <string name="gi_h_ng_tr_ng">Empty cart</string>
+    <string name="t_ng_ti_n">Total Amount :</string>
+    <string name="mua_h_ng">Buy</string>
+    <string name="li_n_h">Contact</string>
+    <string name="g_i">Submit</string>
+    <string name="s_n_ph_m_b_n_ch_y">Best Selling Products</string>
+    <string name="a3">Fruit</string>
+    <string name="a4">Vegetables</string>
+    <string name="nh_p_s_n_ph_m_c_n_t_m">Enter the desired product</string>
+    <string name="a5">Payment</string>
+    <string name="nh_p_a_ch_giao_h_ng">Enter your delivery address</string>
+    <string name="t_h_ng">Place order</string>
+    <string name="a6">HomePage</string>
+    <string name="n">To :</string>
+    <string name="ti_u">Title :</string>
+    <string name="n_i_dung">Message:</string>
+</resources>

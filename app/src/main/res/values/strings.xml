@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">VegetableOrganic</string>
+    <string name="th_m_v_o_gi_h_ng">Thêm Vào Giỏ Hàng</string>
+    <string name="ng_k">Đăng Ký</string>
+    <string name="email">Email</string>
+    <string name="h_v_t_n">Họ và Tên</string>
+    <string name="password">Password</string>
+    <string name="password1">Password</string>
+    <string name="ng_k1">Đăng Ký</string>
+    <string name="ng_nh_p">Đăng Nhập</string>
+    <string name="email1">Email</string>
+    <string name="password2">Password</string>
+    <string name="ng_k2">Đăng Ký</string>
+    <string name="ch_a_ng_k">Chưa Đăng Ký ?</string>
+    <string name="ng_nh_p1">Đăng Nhập</string>
+    <string name="a1">Chi Tiết Sản Phẩm</string>
+    <string name="m_t_chi_ti_t_s_n_ph_m">Mô Tả Chi Tiết Sản Phẩm</string>
+    <string name="x_c_th_c_otp">Xác Thực OTP</string>
+    <string name="x_c_th_c1">Xác Thực</string>
+    <string name="a2">Củ</string>
+    <string name="gi_h_ng_tr_ng">Giỏ Hàng Trống</string>
+    <string name="t_ng_ti_n">Tổng Tiền :</string>
+    <string name="mua_h_ng">Mua Hàng</string>
+    <string name="li_n_h">Liên Hệ</string>
+    <string name="g_i">Gửi</string>
+    <string name="s_n_ph_m_b_n_ch_y">Sản Phẩm Bán Chạy</string>
+    <string name="a3">Trái Cây</string>
+    <string name="a4">Rau</string>
+    <string name="nh_p_s_n_ph_m_c_n_t_m">Nhập sản phẩm cần tìm</string>
+    <string name="a5">Thanh Toán</string>
+    <string name="nh_p_a_ch_giao_h_ng">Nhập địa chỉ giao hàng</string>
+    <string name="t_h_ng">Đặt Hàng</string>
+    <string name="a6">Trang Chủ</string>
+    <string name="n">Đến:</string>
+    <string name="ti_u">Tiêu Đề:</string>
+    <string name="n_i_dung">Nội Dung:</string>
+</resources>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:background="@color/lightwhite"
+    tools:context=".Activity.LoginActivity">
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/dancing_script_medium"
+            android:text="@string/ng_k"
+            android:layout_gravity="center"
+            android:textColor="@color/blackcolor"
+            android:textSize="25dp"
+            android:textStyle="bold"/>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@drawable/img"
+            android:layout_marginTop="40dp">
+            <ImageView
+                android:layout_width="120dp"
+                android:layout_height="120dp"
+                android:src="@drawable/logo_app"
+                />
+        </LinearLayout>
+        <EditText
+            android:id="@+id/edEmail"
+            android:layout_width="350dp"
+            android:layout_height="45dp"
+            android:hint="@string/email"
+            android:elevation="5dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="30dp"
+            android:paddingLeft="15dp"
+            android:inputType="textEmailAddress"
+            android:background="@drawable/btn"/>
+        <EditText
+            android:id="@+id/edUsername"
+            android:layout_width="350dp"
+            android:layout_height="45dp"
+            android:hint="@string/h_v_t_n"
+            android:elevation="5dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="30dp"
+            android:paddingLeft="15dp"
+            android:inputType="textEmailAddress"
+            android:background="@drawable/btn"/>
+
+
+        <EditText
+            android:id="@+id/edPassword"
+            android:layout_width="355dp"
+            android:layout_height="41dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="30dp"
+            android:background="@drawable/btn"
+            android:elevation="5dp"
+            android:hint="@string/password"
+            android:inputType="textPassword"
+            android:paddingLeft="15dp" />
+
+        <EditText
+            android:id="@+id/edCPassword"
+            android:layout_width="355dp"
+            android:layout_height="41dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="30dp"
+            android:background="@drawable/btn"
+            android:elevation="5dp"
+            android:hint="@string/password1"
+            android:inputType="textPassword"
+            android:paddingLeft="15dp" />
+
+        <Button
+            android:id="@+id/btnSignUp"
+            android:layout_width="350dp"
+            android:layout_height="45dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="30dp"
+            android:text="@string/ng_k1"
+            android:textAllCaps="false"
+            android:background="@drawable/joinbtn"
+            android:textColor="@color/whitecolor"/>
+<!--        <TextView-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_gravity="center_horizontal"-->
+<!--            android:text="No account! Register?"-->
+<!--            android:textColor="@color/fullwhite"-->
+<!--            android:layout_marginTop="25dp"/>-->
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">유기농 야채</string>
+    <string name="th_m_v_o_gi_h_ng">장바구니에 추가</string>
+    <string name="ng_k">등록</string>
+    <string name="email">이메일</string>
+    <string name="h_v_t_n">이름 및 성</string>
+    <string name="password">비밀번호</string>
+    <string name="password1">비밀번호</string>
+    <string name="ng_k1">등록</string>
+    <string name="ng_nh_p">로그인</string>
+    <string name="email1">이메일</string>
+    <string name="password2">비밀번호</string>
+    <string name="ng_k2">등록</string>
+    <string name="ch_a_ng_k">등록되지 않았습니까?</string>
+    <string name="ng_nh_p1">로그인</string>
+    <string name="a1">제품 세부정보</string>
+    <string name="m_t_chi_ti_t_s_n_ph_m">자세한 제품 설명</string>
+    <string name="x_c_th_c_otp">OTP 인증</string>
+    <string name="x_c_th_c1">확인</string>
+    <string name="a2">터머</string>
+    <string name="gi_h_ng_tr_ng">빈 카트</string>
+    <string name="t_ng_ti_n">총 금액:</string>
+    <string name="mua_h_ng">구매</string>
+    <string name="li_n_h">연락처</string>
+    <string name="g_i">제출</string>
+    <string name="s_n_ph_m_b_n_ch_y">베스트 셀러 제품</string>
+    <string name="a3">과일</string>
+    <string name="a4">야채</string>
+    <string name="nh_p_s_n_ph_m_c_n_t_m">찾는 내용을 입력하세요</string>
+    <string name="a5">지급</string>
+    <string name="nh_p_a_ch_giao_h_ng">배송 주소 입력</string>
+    <string name="t_h_ng">주문하기</string>
+    <string name="a6">홈페이지</string>
+    <string name="n">받는 사람:</string>
+    <string name="ti_u">제목:</string>
+    <string name="n_i_dung">콘텐츠:</string>
+
+</resources>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LégumesBiologique</string>
+    <string name="th_m_v_o_gi_h_ng">Ajouter un panier</string>
+    <string name="ng_k">S\'inscrire</string>
+    <string name="email">E-mail</string>
+    <string name="h_v_t_n">Nom et prénom</string>
+    <string name="password">Mot de passe</string>
+    <string name="password1">Mot de passe</string>
+    <string name="ng_k1">S\'inscrire</string>
+    <string name="ng_nh_p">Connexion</string>
+    <string name="email1">E-mail</string>
+    <string name="password2">Mot de passe</string>
+    <string name="ng_k2">S\'inscrire</string>
+    <string name="ch_a_ng_k">Pas de compte enregistré ?</string>
+    <string name="ng_nh_p1">Connexion</string>
+    <string name="a1">Description détaillée du produit</string>
+    <string name="m_t_chi_ti_t_s_n_ph_m">Description détaillée du produit</string>
+    <string name="x_c_th_c_otp">Authentification OTP</string>
+    <string name="x_c_th_c1">Vérification</string>
+    <string name="a2">Tumer</string>
+    <string name="gi_h_ng_tr_ng">Vider le panier</string>
+    <string name="t_ng_ti_n">Montant total :</string>
+    <string name="mua_h_ng">Achat</string>
+    <string name="li_n_h">Contact</string>
+    <string name="g_i">Soumettre</string>
+    <string name="s_n_ph_m_b_n_ch_y">Produits les plus vendus</string>
+    <string name="a3">Fruits</string>
+    <string name="a4">Légumes</string>
+    <string name="nh_p_s_n_ph_m_c_n_t_m">Entrez le produit souhaité</string>
+    <string name="a5">Paiement</string>
+    <string name="nh_p_a_ch_giao_h_ng">Entrez votre adresse de livraison</string>
+    <string name="t_h_ng">Passer commande</string>
+    <string name="a6">Page d accueil</string>
+    <string name="n">À :</string>
+    <string name="ti_u">Titre :</string>
+    <string name="n_i_dung">Contenu :</string>
+</resources>
